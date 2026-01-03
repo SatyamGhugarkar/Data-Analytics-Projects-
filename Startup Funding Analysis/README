@@ -1,0 +1,24 @@
+📊 Startup Funding Analysis
+
+A Streamlit-based data analytics web app to analyze Indian startup funding data.
+It provides insights into overall funding trends, startup performance, and investor-wise analysis using interactive visualizations.
+
+🛠 Tech Stack
+
+Python, Streamlit, Pandas, Matplotlib
+
+▶️ Run the App
+pip install streamlit pandas matplotlib
+streamlit run app3.py
+
+✨ Key Highlights
+
+Total, average, and maximum funding analysis
+
+Month-on-Month and Year-on-Year trends
+
+Investor-wise sector, stage, and city analysis
+
+👨‍💻 Author
+
+Satyam Ghugarkar
